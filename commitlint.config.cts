@@ -1,4 +1,4 @@
-const rules ={
+module.exports = { 
     // extends: ['@commitlint/config-conventional'],
     extends: [],
     rules: {
@@ -22,5 +22,3 @@ const rules ={
       },
     ],
   };
-
-  export default rules
