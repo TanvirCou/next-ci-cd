@@ -35,6 +35,4 @@ jobs:
         run: npm run format
 
       - name: Check commit messages
-        uses: wagoid/commitlint-github-action@v3
-        with:
-          configFile: commitlint.config.ts
+        uses: kevintyj/prlint@v2
