@@ -23,4 +23,5 @@ const commitlintConfig = {
   ],
 };
 
+
 export default commitlintConfig;
