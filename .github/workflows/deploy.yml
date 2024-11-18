@@ -5,7 +5,7 @@ env:
 on:
   push:
     branches:
-      - master # Replace with your main development branch
+      - master # Replace with your main development branch 
 
 jobs:
   build-and-deploy:
